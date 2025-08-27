@@ -1,3 +1,7 @@
+## 👤 Autor
+- **Nombre:** jefry Sneider Díaz Florez  
+- **GitHub:** [Mi perfil](https://github.com/jefrysneiderdiazflorez-cell)
+
 # Proyecto InteraccionHM
 
 Este repositorio fue creado como parte de una práctica de Git y GitHub.  
